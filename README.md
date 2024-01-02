@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="www.linkedin.com/in/akshutam-sharma-1709ab274">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
