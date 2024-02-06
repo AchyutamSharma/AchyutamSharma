@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C , HTML/CSS, Cloud Computing**
+- 💬 Ask me about **C, HTML/CSS, Cloud Computing**
 
 - ⚡ Fun fact **I am Funny**
 
