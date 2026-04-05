@@ -27,9 +27,10 @@
           </p>
           
 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyutamsharma&layout=donut" alt="achyutamsharma" alt="achyutamsharma" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achyutamsharma&show_icons=true&locale=en" alt="achyutamsharma" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achyutamsharma&" alt="achyutamsharma" /></p>
